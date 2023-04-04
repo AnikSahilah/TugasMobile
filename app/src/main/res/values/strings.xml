@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Anik</string>
+    <string-array name="countries_arry">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Korea</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Aljazair</item>
+        <item>Amerika Serikat</item>
+        <item>Angola</item>
+    </string-array>
+    <string-array name="programming_languages">
+        <item>python</item>
+        <item>Ruby</item>
+        <item>swift</item>
+        <item>visualstudio</item>
+        <item>ts</item>
+        <item>java</item>
+        <item>javascripst</item>
+    </string-array>
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
